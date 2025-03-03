@@ -6,7 +6,6 @@
 
 .pattern{
     width: 100%
-    
 }
 
 .logo{
@@ -17,12 +16,52 @@
     margin: 0;
 }
 
+.titolo{
+    color: blueviolet;
+}
+
 a{
     text-decoration: none;
+    color: aqua;
 }
 
 /* nav */
 
 /* main */
+
+.evidenziato{
+    background-color: yellow;
+}
+
+.lista{
+    padding: 10px;
+    margin: 0;
+}
+
+/* TABELLA */
+
+.tabella{
+    width: 100%;
+
+}
+
+.nome-colonna{
+    text-align: left;
+    color: white;
+    background-color: rgb(48, 83, 241);
+}
+
+
+#articoli{
+    color: gray;
+    margin: 10px;
+    margin-left: 0;
+}
+
+.articoli{
+    display: block;
+    margin: 10px;
+    margin-left: 0;
+}
 
 /* footer */
