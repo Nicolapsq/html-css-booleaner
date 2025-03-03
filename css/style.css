@@ -1,5 +1,26 @@
 /* header */
 
+.int-pagina{
+    background-color: blue;
+}
+
+.pattern{
+    width: 100%
+    
+}
+
+.logo{
+    width: 200px;
+}
+
+#titolo{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
 /* nav */
 
 /* main */
